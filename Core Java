@@ -1,0 +1,26 @@
+1. Programming Languages
+    Declarative Programming Language - Procedural, Object Oriented
+    Imperative Programming Language - Functional, Database
+2. OOPS Concepts
+    Abstraction
+    Encapsulation
+    Inheritance
+    Polymorphism
+3. Object Oriented Design
+    Association
+    Aggregation
+    Composition
+4. Memory Areas
+    Types - Heap, Stack, PC, Register, Method Areas
+    Heap Memory Distribution - Young & Old Generation, Survivorship Rules
+    Heap Memory Configuration Parameters
+    Permagen, Metaspace
+5. JDK vs JRE vs JVM
+   JVM Tuning Parameters
+6. Garbage Collection
+    Internal Working
+    Minor, Major, Full GC
+    Algorithm Types
+    GC Tuning Parameters
+7. Profiling Tools
+  
