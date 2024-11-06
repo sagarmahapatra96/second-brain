@@ -15,12 +15,14 @@
     Heap Memory Distribution - Young & Old Generation, Survivorship Rules
     Heap Memory Configuration Parameters
     Permagen, Metaspace
+    Memory Leaks - Causes & Solution
 5. JDK vs JRE vs JVM
-   JVM Tuning Parameters
-6. Garbage Collection
+    JVM Tuning Parameters
+6. Class Loaders – Types, Principles of Functionality, Methods
+7. Garbage Collection
     Internal Working
     Minor, Major, Full GC
     Algorithm Types
     GC Tuning Parameters
-7. Profiling Tools
+8. Profiling Tools
   
