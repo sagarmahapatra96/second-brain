@@ -41,17 +41,17 @@
 11. Constructors
 12. Methods - Static, Final, Default, Static
 13. Access Modifiers - default, public, private, protected
-14.	Strings
+14. Strings
      Ways to create String
      String Pool
      String vs String Builder vs String Buffer and String Joiner (Why when we have Builder?)
      Compact String
-15.	Exception Handling
+15. Exception Handling
      Checked vs Unchecked
      Try-Catch-Finally
      throw vs throws
      Exception Propagation, Chaining, Wrapping
-16.	Multi-Threading
+16. Multi-Threading
      Thread Life Cycle
      Ways to Create Thread
      Inter Thread Communication
