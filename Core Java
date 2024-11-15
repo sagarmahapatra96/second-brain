@@ -25,4 +25,56 @@
     Algorithm Types
     GC Tuning Parameters
 8. Profiling Tools
+9. Classes & Objects
+    Concrete
+    Static
+    Final
+    Nested 
+    Inner
+    Anonymous Inner
+    Local Inner
+    Abstract 
+    Generic
+    Immutable
+    Singleton
+10. Interfaces
+11. Constructors
+12. Methods - Static, Final, Default, Static
+13. Access Modifiers - default, public, private, protected
+14.	Strings
+     Ways to create String
+     String Pool
+     String vs String Builder vs String Buffer and String Joiner (Why when we have Builder?)
+     Compact String
+15.	Exception Handling
+     Checked vs Unchecked
+     Try-Catch-Finally
+     throw vs throws
+     Exception Propagation, Chaining, Wrapping
+16.	Multi-Threading
+     Thread Life Cycle
+     Ways to Create Thread
+     Inter Thread Communication
+     Supplier Consumer Problem
+     Deadlock
+     Ways to avoid and resolve Deadlock
+     Executor Service
+     Thread Pools & ThreadLocale
+     Locks
+     Semaphores
+     Concurrency vs Parallelism
+     Synchronization
+     Async Calls
+     Future
+     Completable Future
+17.	Collections
+     All Data Structures
+     Fail Fast & Fail Safe Iterators
+     Comparable, Comparator
+     HashMap, HashSet, HashTable, ArrayList, LinkedList, Concurrent HashMap Internal Implementation
+     HashMap Collisions
+     Concurrent / Thread Safe Collections
+     Sort HashMap by Values
+18. Volatile, Transient, Serializable, Cloneable, Callable
+
   
